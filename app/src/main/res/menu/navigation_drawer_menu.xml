@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/account_icon"
+            android:title="@string/navigation.menu.account.text"/>
+        <item
+            android:id="@+id/nav_top_up"
+            android:icon="@drawable/top_up_icon"
+            android:title="@string/navigation.menu.top_up.text" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/history_icon"
+            android:title="@string/navigation.menu.history.text" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/notification_icon"
+            android:title="@string/navigation.menu.notification.text" />
+    </group>
+
+</menu>

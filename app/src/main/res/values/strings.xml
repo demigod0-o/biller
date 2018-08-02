@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">biller</string>
+
+    <string name="login.login_button.text">login</string>
+    <string name="login.sign_up_button.text">sign up</string>
+
+    <string name="register.store.title.text">Account Registration</string>
+    <string name="register.store.store_name.text">store name</string>
+    <string name="register.store.store_phone.text">phone number</string>
+    <string name="register.store.store_address.text">store address</string>
+    <string name="register.store.store_email.text">email</string>
+    <string name="register.store.store_type.text">store type</string>
+    <string name="register.store.store_passowrd.text">password</string>
+    <string name="register.button.confirm.text">confirm</string>
+
+    <string name="navigation.menu.account.text">account</string>
+    <string name="navigation.menu.top_up.text">top up</string>
+    <string name="navigation.menu.notification.text">noti</string>
+    <string name="navigation.menu.history.text">history</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Biller4Store</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Biller4Store</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="fragment.account.store_name">account name</string>
+    <string name="fragment.account.store_address">store address</string>
+    <string name="fragment.account.store_phone_no">phone number</string>
+    <string name="fragment.account.store_mail">mail address</string>
+    <string name="fragment.account.store_type">store type</string>
+    <string name="fragment.account.store_wallet_amount">wallet amount</string>
+    <string name="fragment.account.store_account_status">account status</string>
+
+
+    <string name="fragment.top_up.top_up_phone">top up phone</string>
+    <string name="fragment.top_up.remaining_balance">wallet amount</string>
+    <string name="fragment.top_up.top_up_balance">top up balance</string>
+
+    <string-array name="spinner_list">
+        <item>Select store type</item>
+        <item>Convenience Store </item>
+        <item>Little Store</item>
+    </string-array>
+</resources>
+
